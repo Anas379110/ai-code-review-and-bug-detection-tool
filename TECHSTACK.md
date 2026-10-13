@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — أداة مراجعة الأكواد واكتشاف الأخطاء بالذكاء الاصطناعي
+# 🛠️ Technologies Used — AI-Powered Code Review & Bug Detection Tool
 
 - Python
 - FastAPI
